@@ -4,4 +4,6 @@ This project came about thanks to a collaboration between KU Leuven and UZ Leuve
 The pickle file consists of non-patient-specific filter coefficients for a pre-trained SPIR filter. This allows for rapid processing of the data with acceptable accuracy. 
 The requirements.txt file contains all the necessary dependencies to run the GUI 
 
+Authors of the code: Dieter Vanherck and Mathias Huybrechts. The main seizure detection algorithm that has been implemented, was written by Jonathan Dan.  
+
 
